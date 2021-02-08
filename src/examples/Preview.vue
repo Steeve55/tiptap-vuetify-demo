@@ -27,6 +27,7 @@ import {
   OrderedList,
   ListItem,
   Link,
+  Image,
   Blockquote,
   HardBreak,
   HorizontalRule,
@@ -46,6 +47,7 @@ export default {
       ListItem, // if you need to use a list (BulletList, OrderedList)
       BulletList,
       OrderedList,
+      Image,
       [
         Heading,
         {
